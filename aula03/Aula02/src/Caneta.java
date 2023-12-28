@@ -26,6 +26,7 @@ public class Caneta {
         System.out.println("Modelo: " + this.modelo);
         System.out.println("Uma Caneta " + this.cor);
         System.out.println("Ponta: " + this.ponta);
+        System.out.println("Carga: " + this.carga);
         System.out.println("Esta tampada? " + this.tampada);
     }
 
